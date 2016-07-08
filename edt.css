@@ -18,10 +18,10 @@
 }
 
 .dark-label {
-    color: #aa74ff !important;
-    font-weight: bold;
+    color: #fff !important;
+    font-weight: null;
     text-shadow: 2px 0px 11px, #dd00ff;
-    background: url(http://forum.ragezone.com/images/backround6.gif);
+    background: url();
     
 }
 #dj-button {
