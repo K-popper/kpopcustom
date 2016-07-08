@@ -28,6 +28,9 @@
 #room .app-right {
     background: linear-gradient(to right,rgba(0, 0, 0, 0.70) 0,rgba(0, 0, 0, 1) 100%);
 }
+.app-header {
+    background: rgba(28, 31, 37, 0.59);
+}
 /*
 #playback-container {
     background-image: url();
