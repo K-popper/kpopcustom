@@ -11,15 +11,8 @@
 
 }
 
-#chat-messages .fromID-3424833 .badge-box i,
-#chat-messages  .id-3424833 .badge-box i {
-    background-image: url(http://i.imgur.com/8Any1LN.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
+[data-cid^="3424833-"] .badge-box .bdg {
+    background-image: url("http://i.imgur.com/8Any1LN.gif") !important;
+    background-repeat: round !important;
     
 }
