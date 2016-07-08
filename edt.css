@@ -1,12 +1,14 @@
-@import url("https://rawgit.com/allanelectrobrasil/ebcustom/master/users.css");
-@import url("https://rawgit.com/allanelectrobrasil/ebcustom/master/rdjs.css");
-@import url("https://rawgit.com/allanelectrobrasil/ebcustom/master/alter.css");
-@import url("https://rawgit.com/allanelectrobrasil/ebcustom/master/special.css");
+@import url("https://rawgit.com/BotFarofa/edtcustom/master/users.css");
+@import url("https://rawgit.com/BotFarofa/edtcustom/master/rdjs.css");
+@import url("https://rawgit.com/BotFarofa/edtcustom/master/alter.css");
+@import url("https://rawgit.com/BotFarofa/edtcustom/master/special.css");
 
 #room-bar .icon-room {
-    background: url(http://i.imgur.com/Q8leNK0.png);
-    width: 31px;
-    height: 31px;
+    background: url(http://i.imgur.com/uwuZ4b5.png);
+    width: 75px;
+}
+#room-name, #room-host {
+    left: 89px !important;
 }
 /*
 #playback-container {
@@ -154,7 +156,7 @@
 }
 
 .delete-button:hover {
-    background: #FF3558 !important;
+    background: #rFF3558 !important;
 }
 
 .icon-plug-dj {
