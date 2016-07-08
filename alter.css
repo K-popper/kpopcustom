@@ -24,16 +24,16 @@
 .header-panel-button.selected {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%);
 }
-.icon-history-white {
+.header-history-white.selected {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%);
 }
-.icon-skip {
+.header-skip.selected {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%);
 }
-.icon-settings-white {
+.header-settings-white.selected {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%);
 }
-#rcs-appright-button {
+.header-panel-button.selected {
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,rgba(255, 255, 255, 0.06) 100%);
 }
 #plug-menu {
