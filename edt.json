@@ -1,6 +1,6 @@
 {
-	"room": "Electro Brasil",
-	"css": "https://rawgit.com/allanelectrobrasil/ebcustom/master/eb.css",
+	"room": "EDT",
+	"css": "https://rawgit.com/BotFarofa/edtcustom/master/edt.css",
 	"rules": {
             "allowAutorespond":     true,
             "allowAutowoot":        true,
@@ -16,7 +16,7 @@
 	    "bouncer": "null",
 	    "cohost": null,
 	    "rdj": null,
-	    "host": "#42a5dc",
+	    "host": null,
 	    "manager": null,
 	    "admin": null,
 	    "subscriber": null,
