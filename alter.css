@@ -150,7 +150,10 @@ border-radius: 8px;
 background: #222224;
 }
 #woot .bottom, #woot.selected {
-background: #90ad2f;
+background: #25b961 !important;
+}
+.votes-rs .title.woot {
+background: #25b961 !important;
 }
 #grab .bottom, #grab.selected {
 background: #aa74ff;
