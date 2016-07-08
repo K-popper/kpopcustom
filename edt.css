@@ -10,6 +10,14 @@
 #room-name, #room-host {
     left: 89px !important;
 }
+
+.dark-label {
+    color: #fff !important;
+    font-weight: bold;
+    text-shadow: 2px 0px 11px, #dd00ff;
+    background: url(http://forum.ragezone.com/images/backround6.gif);
+    
+}
 #dj-button {
     background: rgba(34, 34, 36, 0.59);
     border-radius: 8px;
