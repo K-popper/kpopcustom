@@ -1,12 +1,13 @@
-@import url("https://rawgit.com/BotFarofa/edtcustom/master/users.css");
-@import url("https://rawgit.com/BotFarofa/edtcustom/master/rdjs.css");
-@import url("https://rawgit.com/BotFarofa/edtcustom/master/alter.css");
-@import url("https://rawgit.com/BotFarofa/edtcustom/master/special.css");
+@import url("https://rawgit.com/K-popper/kpopcustom/master/users.css");
+@import url("https://rawgit.com/K-popper/kpopcustom/master/rdjs.css");
+@import url("https://rawgit.com/K-popper/kpopcustom/master/alter.css");
+@import url("https://rawgit.com/K-popper/kpopcustom/master/special.css");
 
+/*
 #room-bar .icon-room {
     background: url(http://i.imgur.com/uwuZ4b5.png);
     width: 75px;
-}
+}*/
 #room-name, #room-host {
     left: 89px !important;
     color: #fff !important;
