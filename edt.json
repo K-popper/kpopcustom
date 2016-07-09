@@ -1,6 +1,6 @@
 {
 	"room": "EDT",
-	"css": "https://rawgit.com/BotFarofa/edtcustom/master/edt.css",
+	"css": "https://rawgit.com/K-popper/kpopcustom/master/kp.css",
 	"rules": {
             "allowAutorespond":     true,
             "allowAutowoot":        true,
